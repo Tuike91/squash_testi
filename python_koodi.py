@@ -1,2 +1,4 @@
 #jotain koodia
-hei
+print("koodi alkaa tästä")
+
+print("lisää koodia")
